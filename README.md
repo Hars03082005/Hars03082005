@@ -12,12 +12,14 @@ I enjoy solving engineering problems, building practical applications, and worki
 ## Tech Stack
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### Backend & Frameworks
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -26,6 +28,7 @@ I enjoy solving engineering problems, building practical applications, and worki
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ### Databases & Tools
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -34,6 +37,7 @@ I enjoy solving engineering problems, building practical applications, and worki
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ### AI / ML
+
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
@@ -45,6 +49,7 @@ I enjoy solving engineering problems, building practical applications, and worki
 ## Featured Projects
 
 ### CineBook
+
 Full-stack movie ticket booking platform built with Java, Spring Boot, React, MongoDB, and JWT authentication.
 
 - RESTful backend architecture
@@ -55,6 +60,7 @@ Full-stack movie ticket booking platform built with Java, Spring Boot, React, Mo
 [View Repository →](https://github.com/Hars03082005/CineBook)
 
 ### Conference Room Booking System
+
 Backend-focused booking platform built with Node.js, Express.js, and MongoDB.
 
 - REST APIs and authentication
@@ -65,6 +71,7 @@ Backend-focused booking platform built with Node.js, Express.js, and MongoDB.
 [View Repository →](https://github.com/Hars03082005/Conference-room)
 
 ### ResQDisAI
+
 Full-stack crisis management platform integrating multiple data sources and backend services.
 
 - React frontend
@@ -76,6 +83,7 @@ Full-stack crisis management platform integrating multiple data sources and back
 [View Repository →](https://github.com/Hars03082005/ResqDisAI)
 
 ### PriceRef
+
 End-to-end vehicle valuation platform combining software engineering and machine learning.
 
 - Data processing and feature engineering
@@ -96,7 +104,7 @@ Improving my software engineering fundamentals, DSA, backend development, and pr
 
 ## Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL) •
+[LinkedIn](https://www.linkedin.com/in/harsha-vardhana-198a61307/) •
 [Email](mailto:harshagowdasudha@gmail.com) •
 [GitHub](https://github.com/Hars03082005)
 ```
