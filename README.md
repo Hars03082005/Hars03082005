@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm Harshavardhana M
 
 ### Software Engineering | Full-Stack Development | AI/ML
